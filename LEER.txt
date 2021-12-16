@@ -1,0 +1,7 @@
+1.- Una validando con un min y un max el cuadro input de tipo number
+El min y el max del archivo index se encuentra en la linea 55.
+
+2.- Y otro sin el min y max.
+Si quita los atributos de min y max (linea 55) y se realiza una prueba, se vera que el comportamiento cambia, pero se cumple con lo solictado, 
+Este último oculta tanto la tarjeta como el grafico si no se cumple con la condicion de estar en el rango entre 1 y el 732 ambos incluidos 
+y aparecen si estan entre el rango solicitado.
